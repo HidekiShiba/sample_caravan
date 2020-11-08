@@ -18,6 +18,12 @@ header {
   margin-left: 20px;
 }
 
+.social {
+  position: absolute;
+  top: 22px;
+  right: 22px;
+}
+
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
   font-size: 32px;
 }
